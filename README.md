@@ -6,7 +6,7 @@ This project is "DynPrice-MG: Trajectory Privacy Protection Based on Dynamic Pri
 本项目的作者以及单位：
 The author and affiliation of this project
 
-项目名称（Project Name）：Mamba-TrajGAN
+项目名称（Project Name）：Mamba-TrajGAN.
 项目作者：Shoukai Liao, Suiming Guo, Chao Chen.
 作者单位：暨南大学网路空间安全学院（College of Cyber Security, Jinan University）
 
