@@ -1,2 +1,0 @@
-本项目是一个基于Mamba网络和动态价格轨迹隐私保护模型，实现了对按需出行的出租车轨迹的隐私保护，同时确保合成轨迹能够应用于下游任务。
-This project is based on the Mamba network and a dynamic price trajectory privacy protection model. It achieves privacy protection for the trajectory data of on-demand taxis, while ensuring that the synthesized trajectory can be applied to downstream tasks.
